@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "836781495514",
+    "firebase_url": "https://gpdb-dcaff.firebaseio.com",
+    "project_id": "gpdb-dcaff",
+    "storage_bucket": "gpdb-dcaff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836781495514:android:d7258025bae02bc10e81e3",
+        "android_client_info": {
+          "package_name": "com.Khaled.IFHRS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836781495514-5n8ejs8kck4ch91rllbpbupcbct5vv89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTuW6UvgcE2Fy2xqCgNmXOVA-wF7f255k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836781495514-5n8ejs8kck4ch91rllbpbupcbct5vv89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
